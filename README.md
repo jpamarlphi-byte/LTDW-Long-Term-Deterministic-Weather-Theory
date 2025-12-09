@@ -4,6 +4,12 @@ Copyright © 2025 JP A-Marl
 
 ---
 
+
+# LTDW – Year-Ahead Deterministic Hurricane & Typhoon Landfall and Heat Waves & Cond Snaps Forecast
+
+
+---
+
 # Published on the 03Dec2025 
 
 https://zenodo.org/records/17798798 

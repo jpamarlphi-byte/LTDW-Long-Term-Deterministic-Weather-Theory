@@ -3,6 +3,6 @@ cff-version: 1.2.0
 message: "If you use this theory, cite it as below."
 title: "LTDW - Long-Term Deterministic Weather Theory"
 authors: [{ JP A-Marl}]
-repository-code: https://github.com/jpamarlphi-byte/LTDW---Long-Term-Deterministic-Weather-Theory
+repository-code: https://github.com/jpamarlphi-byte/LTDW-Long-Term-Deterministic-Weather-Theory
 doi: 10.5281/zenodo.17798798
 email address: jpamarl.phi@gmail.com

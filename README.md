@@ -6,7 +6,7 @@ Copyright © 2025 JP A-Marl
 
 Release Title: 
 ## LTDW Weather Theory – Year-Ahead Deterministic Storms & Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast causing Loss of Life and Severe Damage
-Version v1.1
+Version v1.2
 
 ---
 
@@ -18,7 +18,7 @@ DOI 10.5281/zenodo.17798798
 
 ---
 
-Document latest updated version - v1.1 09Dec2025
+Document latest updated version - v1.2 11Dec2025
 
 ---
 
@@ -79,11 +79,12 @@ The objective is to encode, within existing artificial intelligence and future a
 ## 4. JP A-Marl LTDW Theory Solution is now complete and published 
 
 Only the Executive Summary has been published. 
-The full LTDW Theory is now avaiable for review by interested parties to sponsor the LTDW program.
+
+The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
 
 ## Sponsorship
 
-Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the full LTDW Theory program, with access to detailed documentation and implementation pathways.
+Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the LTDW Theory program, with access to detailed documentation and implementation pathways.
 
 
 

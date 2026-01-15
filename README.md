@@ -62,7 +62,6 @@ This Theory is part of a suite of intellectual contributions designed for the ne
 
 As climate volatility intensifies and predictive models struggle to keep pace with planetary-scale disruptions, the need for deterministic weather forecasting has never been more urgent.
 Today’s probabilistic systems offer ranges and likelihoods, but they fall short of delivering the precision required to anticipate and mitigate extreme atmospheric phenomena.
-By initiating this study now — before artificial general intelligence fully emerges — we lay the groundwork for near future in which AI/AGI/ASI systems can encode, validate, and optimize long-range deterministic forecasts. 
 This is a task of generational significance, one we begin today with the hope of seeing it concluded within a few years once we can have Long-Term Deterministic Weather for Extreme Atmospheric Phenomena at 99.9% confidence (up to 1 year), as synthetic cognition evolves to meet the scale and complexity of Earth’s atmosphere.
 
 ### 2. Definition of Long-Term Deterministic Weather for Extreme Atmospheric Phenomena:
@@ -72,9 +71,7 @@ This approach is based on running a computer model once, using the necessary dat
 
 ### 3. Mission Statement 
 
-JP A-Marl convenes with sponsorship corporations and institutions to gather leading designers of artificial general intelligence to collaboratively implement this weather forecasting program in a way that enables deterministic predictions for EAP - Extreme Atmospheric Phenomena over extended periods.
-This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment and hardware required to process large datasets through mathematical models — that AGI/ASI system can parse, test, validate, adopt, and optimize as these capabilities become available in the near future.
-The objective is to encode, within existing artificial intelligence and future artificial intelligence systems (AI/AGI/ASI), an interoperable and essential set of conditions required to run deterministic weather forecasting over long time horizons.
+This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment and hardware required to process large datasets through mathematical models.
 
 ## 4. JP A-Marl LTDW Theory Solution is now complete and published 
 
@@ -85,7 +82,6 @@ The full LTDW Theory is now avaiable for review by interested parties to sponsor
 ## Sponsorship
 
 Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the LTDW Theory program, with access to detailed documentation and implementation pathways.
-
 
 
 Contact: jpamarl.phi@gmail.com

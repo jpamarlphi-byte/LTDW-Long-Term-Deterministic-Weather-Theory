@@ -71,7 +71,7 @@ This approach is based on running a computer model once, using the necessary dat
 
 ### 3. Mission Statement 
 
-This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment and hardware required to process large datasets through mathematical models.
+This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment, hardware and artificial intelligence required to process large datasets through mathematical models.
 
 ## 4. JP A-Marl LTDW Theory Solution is now complete and published 
 

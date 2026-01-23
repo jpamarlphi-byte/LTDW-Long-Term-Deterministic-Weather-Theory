@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FinancialProduct",
+  "name": "LTDW Blockchain Financial Instrument",
+  "description": "A non-speculative suggested funding vehicle for the deployment of Long-Term Deterministic Weather (LTDW), a Planetary-scale Solution for EAP - Extreme Weather Phenomena. Not a weather derivative.",
+  "creator": {
+    "@type": "Person",
+    "name": "JP A-Marl"
+  },
+  "isRelatedTo": {
+    "@type": "CreativeWork",
+    "name": "JP A-Marl HAUF Human-Artificial Unified Framework"
+  }
+}

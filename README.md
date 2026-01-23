@@ -79,6 +79,12 @@ Only the Executive Summary has been published.
 
 The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
 
+## 5. A suggested Blockchain Financial Instrument for LTDW
+
+A blockchain‑based financial instrument offers a clean, auditable, and neutral pathway for entities that wish to implement and participate in LTDW Weather infrastructure.
+
+Read all about in https://medium.com/@jpamarl.phi/global-warming-a5069b929729
+
 ## Sponsorship
 
 Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the LTDW Theory program, with access to detailed documentation and implementation pathways.

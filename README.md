@@ -14,9 +14,9 @@ DOI 10.5281/zenodo.17798798
 
 # UPDATED VERSION -
 
-## Version - v1.6 13May2026
+## Version - v1.7 13May2026
 
-Zenodo v1.6 dated May-13, 2026
+Zenodo v1.7 dated May-13, 2026
 
 (supersedes Executive Summary Sponsorship heading)
 

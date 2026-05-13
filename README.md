@@ -1,16 +1,10 @@
 license: All rights reserved
 
-Copyright © 2025 JP A-Marl
+Copyright © 2025/6 JP A-Marl
 
 ---
 
-Release Title: 
-## LTDW Weather Theory – Year-Ahead Deterministic Storms & Hurricane & Typhoon Landfall and Heat Waves & Cold Snaps Forecast causing Loss of Life and Severe Damage
-Version v1.2
-
----
-
-### Published on the 03Dec2025 
+# Published on the 03Dec2025 
 
 https://zenodo.org/records/17798798 
 
@@ -18,44 +12,39 @@ DOI 10.5281/zenodo.17798798
 
 ---
 
-Document latest updated version - v1.2 11Dec2025
+# UPDATED VERSION -
+
+## Version - v1.5 13May2026
+
+Zenodo v1.5 dated May-13, 2026
+
+(supersedes Executive Summary Sponsorship heading)
 
 ---
 
-
-# LTDW - Long-Term-Deterministic-Weather-Theory
-LTDW - Long-Term Deterministic Weather Theory for EAP - Extreme Atmospheric Phenomena (Storms, Hurricanes, Typhoons, Extreme Heat and Cold, etc) over a long period of time (1 year)
-
-
----
-
+# LTDW Weather Theory - Year-Ahead Deterministic Storms, Hurricane & Typhoon Landfall and Heat Waves and Cold Snaps Forecast causing Loss of Life and Severe Damage
 
 ![LTDW Theory Cover](LTDW_Cover.jpg)
 
 
 ---
 
+
 Keywords / Topics / Tags:
-LTDW, Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, climate risk engineering, JP A-Marl LTDW Weather Theory, DOI 10.5281/zenodo.17798798
+LTDW, Long-Term Deterministic Weather, year-ahead hurricane forecast, deterministic landfall, catastrophe model, cat-bond, sovereign risk transfer, extreme weather prediction, climate risk engineering, JP A-Marl LTDW Weather Theory
 
 
 ---
 
 
-# JP A-Marl Weather Theory
+# JP A-Marl LTDW Weather Theory
 
-This stand-alone Theory is part of a suite of intellectual contributions designed for the next evolution of humanity part of the Human-Artificial Unified Civilizational Framework, including the Uni-Civ-Trilogy (Theorem-Book-Economic Outlook), and the Universal AI/AGI/ASI Ethical Charter.
-
-
----
-
+This Theory is part of a suite of intellectual contributions designed for the next stage of evolution of humanity pertaining to HAUF Human-Artificial Unified Framework, including the Uni-Civ-Trilogy (Theorem-Book-Economic Outlook), and the Universal AI/AGI/ASI Ethical Charter and follow-up modules.
 
 ## LTDW - Long-Term Deterministic Weather for EAP - Extreme Atmospheric Phenomena over a long period of time (1 year)
 
 
-
-![LTDW Ideaization](LTDW_Idealization.jpg)
-
+![LTDW Idealization Image](LTDW_Idealization.jpg)
 
 
 ### 1. Opening Statement: Why This Matters Now
@@ -71,31 +60,25 @@ This approach is based on running a computer model once, using the necessary dat
 
 ### 3. Mission Statement 
 
-This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment, hardware and artificial intelligence required to process large datasets through mathematical models.
+This Theory Solution will define the necessary data, mathematical models, and capabilities — including data-gathering equipment, hardware and software required to process large datasets through mathematical models.
+The objective is to encode an interoperable and essential set of conditions required to run deterministic weather forecasting over long time horizons.
 
 ## 4. JP A-Marl LTDW Theory Solution is now complete and published 
 
 Only the Executive Summary has been published. 
 
-The full LTDW Theory is now avaiable for review by interested parties to sponsor the phased implementation of the LTDW program.
+The full LTDW Theory will be avaiable for the next stage of human-AI evolution for its implementation at planetary scale.
 
-## 5. A suggested Blockchain Financial Instrument for LTDW
+## 5. A Blockchain Financial Instrument for LTDW
 
-A blockchain‑based financial instrument offers a clean, auditable, and neutral pathway for entities that wish to implement and participate in LTDW Weather infrastructure.
+A blockchain‑based financial instrument offers a clean, auditable, and neutral pathway for LTDW's hardware and software implementation.
 
-Read all about in https://medium.com/@jpamarl.phi/global-warming-a5069b929729
+Read about in https://medium.com/@jpamarl.phi/global-warming-a5069b929729
 
-## Sponsorship
+## Follow up on LTDW Theory
 
-Corporations and institutions seeking to lead in global resilience and innovation are invited to sponsor the LTDW Theory program, with access to detailed documentation and implementation pathways.
+Interested parties leading climate global resilience and innovation are invited to contact the author.
 
 
 Contact: jpamarl.phi@gmail.com
-
-
-
-
----
-
-
 

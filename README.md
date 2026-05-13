@@ -79,6 +79,11 @@ Read about in https://medium.com/@jpamarl.phi/global-warming-a5069b929729
 
 Interested parties leading climate global resilience and innovation are invited to contact the author.
 
+## JP A-Marl
+
+JP A-Marl is a civilizational thinker and architect designing the next stage of Human-AI-Planet evolution.
+
+The Future is Here!
 
 Contact: jpamarl.phi@gmail.com
 

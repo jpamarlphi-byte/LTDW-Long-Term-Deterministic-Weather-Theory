@@ -81,9 +81,11 @@ Interested parties leading climate global resilience and innovation are invited 
 
 ## JP A-Marl
 
-JP A-Marl is a civilizational thinker and architect designing the next stage of Human-AI-Planet evolution.
+JP A-Marl is a civilizational thinker and architect designing our New Civilization as the next stage of Human-AI-Planet evolution.
 
 The Future is Here!
+
+JP A-Marl, 2026
 
 Contact: jpamarl.phi@gmail.com
 

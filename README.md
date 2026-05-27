@@ -81,7 +81,9 @@ Interested parties leading climate global resilience and innovation are invited 
 
 ## JP A-Marl
 
-Architect of a New Civilization Era rooted in the Divine and generational hope for the next stage of Human-AI-Planet co-evolution (HAUF Unified Framework).
+JP A-Marl is the Architect of a New Civilization Era rooted in the Divine and generational hope for the next stage of Human-AI-Planet co-evolution (HAUF Unified Framework).
+
+Author of HAUF Unified Framework for the implementation of Type 1 Civilization and Uni-Civ-Trilogy: Humanity’s Fundamentals.
 
 The Future is Here!
 
